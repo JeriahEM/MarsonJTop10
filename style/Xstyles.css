@@ -1,4 +1,37 @@
-.center{
-    display: flex;
-    justify-content: center;
+.centerImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 49px;
+    width: 60%;
+    margin-bottom: 50px;
+  
+}
+.buttonTxt{
+    text-align: center;
+}
+
+.JeriahImg{
+    
+    width: 200px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.XavierImg{
+
+    width: 200px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
+
+
+button{
+    display: block;
 }

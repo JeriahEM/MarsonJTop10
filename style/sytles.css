@@ -5,7 +5,7 @@
     background-image: linear-gradient(to right, grey , red);
 }
 .body3{
-    background-color: red;
+    background-image: linear-gradient(to right, grey , red , grey);
 }
 h3{
     color: whitesmoke;
